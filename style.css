@@ -1,0 +1,12 @@
+
+#text{
+    border-collapse: collapse;
+
+}
+#text tr th,td{
+border:1px solid;
+padding:10px;
+}
+ #text tr:nth-child(odd){
+background-color:aqua;
+}
